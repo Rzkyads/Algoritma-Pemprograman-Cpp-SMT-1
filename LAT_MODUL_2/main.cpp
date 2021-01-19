@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <iomanip>
 
 using namespace std;
@@ -133,7 +133,7 @@ int main(){
     cout << setprecision (2) <<bil<< endl;
     return 0;
 }
-/*
+
 //LATIHAN MENGUKUR SUHU
 #include <iostream>
  using namespace std;
@@ -168,7 +168,7 @@ using namespace std;
                 cout << " SUHU DALAM REAMUR =" << R << endl;
 return 0;
     }
-/*
+
 //MENGHITUNG LUAS DAN KELILING LINGKARAN
 //RUMUS LUAS L=phi*d2/4 =phi*r2
 //RUMUS KELILING K=phi*d = 2*phi*r
